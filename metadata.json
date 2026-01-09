@@ -1,0 +1,5 @@
+{
+  "name": "ShieldFlow VPN",
+  "description": "A modern, secure VPN dashboard simulation featuring real-time traffic visualization, country switching, and an AI-powered server recommendation engine.",
+  "requestFramePermissions": []
+}
